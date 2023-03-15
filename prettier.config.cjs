@@ -4,7 +4,7 @@ const config = {
   semi: false,
   singleQuote: false,
   arrowParens: "avoid",
-  plugins: [require.resolve("prettier-plugin-tailwindcss")]
-};
+  plugins: [require.resolve("prettier-plugin-tailwindcss")],
+}
 
-module.exports = config;
+module.exports = config
